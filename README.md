@@ -1,6 +1,5 @@
 Welcome to Helcelira's `README.md`
 ---
-Where ~~shitposting~~ occurs at a large quantity.
 
 Im an amateur pixel artist and gamedev
 
